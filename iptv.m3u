@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1",CCTV-1高清
 rtp://239.93.0.58:5140 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2",CCTV-2高清
