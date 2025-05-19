@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1高清
-rtp://239.93.0.58:5140 
+rtp://239.93.0.58:5140
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2高清
 rtp://239.93.1.23:6000
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3高清
@@ -15,6 +15,28 @@ rtp://239.93.1.173:5140
 rtp://239.93.42.38:5140
 #EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7高清
 rtp://239.93.1.67:5140
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8高清
+rtp://239.93.42.39:5140
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9高清
+rtp://239.93.1.24:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10高清
+rtp://239.93.1.28:5140
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11高清
+rtp://239.93.0.102:5140
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12高清
+rtp://239.93.1.30:8124
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13高清
+rtp://239.93.0.66:5140
+#EXTINF:-1 tvg-name="CCTV少儿" group-title="央视频道",CCTV-少儿高清
+rtp://239.93.1.29:6000
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15高清
+rtp://239.93.0.103:5140
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17高清
+rtp://239.93.0.92:5140
+#EXTINF:-1 tvg-name="CGTN英语" group-title="央视频道",CGTN英语
+rtp://239.93.0.104:5140
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+rtp://239.93.42.42:5140
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视高清
 rtp://239.93.0.88:5140
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视高清
@@ -23,3 +45,13 @@ rtp://239.93.0.89:5140
 rtp://239.93.0.124:5140
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视高清
 rtp://239.93.0.123:5140
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视高清
+rtp://239.93.0.180:5140
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视高清
+rtp://239.93.0.182:5140
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视高清
+rtp://239.93.0.181:5140
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视高清
+rtp://239.93.0.167:5140
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视高清
+rtp://239.93.0.168:5140
