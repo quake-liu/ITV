@@ -59,8 +59,31 @@ rtp://239.93.0.167:5140
 rtp://239.93.0.168:5140
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视高清
 rtp://239.93.0.169:5140
+#EXTINF:-1 tvg-name="SCTV-2" group-title="卫视频道",SCTV-2高清
+rtp://239.93.1.101:5140
+#EXTINF:-1 tvg-name="SCTV-3" group-title="卫视频道",SCTV-3高清
+rtp://239.93.1.102:5140
+#EXTINF:-1 tvg-name="SCTV-4" group-title="卫视频道",SCTV-4高清
+rtp://239.93.0.47:5140
+#EXTINF:-1 tvg-name="SCTV-5" group-title="卫视频道",SCTV-5高清
+rtp://239.93.0.166:5140
+#EXTINF:-1 tvg-name="SCTV-6" group-title="卫视频道",SCTV-6高清
+rtp://239.93.1.144:5140
+#EXTINF:-1 tvg-name="SCTV-7" group-title="卫视频道",SCTV-7高清
+rtp://239.93.0.219:5140
+#EXTINF:-1 tvg-name="SCTV-科教" group-title="卫视频道",SCTV-科教高清
+rtp://239.93.42.44:5140
 #EXTINF:-1 tvg-name="CDTV-1" group-title="卫视频道",CDTV-1高清
 rtp://239.93.0.16:5140
-
-
-
+#EXTINF:-1 tvg-name="CDTV-2" group-title="卫视频道",CDTV-2高清
+rtp://239.93.0.17:1239
+#EXTINF:-1 tvg-name="CDTV-3" group-title="卫视频道",CDTV-3高清
+rtp://239.93.0.18:1238
+#EXTINF:-1 tvg-name="CDTV-4" group-title="卫视频道",CDTV-4高清
+rtp://239.93.0.19:1250
+#EXTINF:-1 tvg-name="CDTV-5" group-title="卫视频道",CDTV-5高清
+rtp://239.93.1.231:5140
+#EXTINF:-1 tvg-name="CDTV-6" group-title="卫视频道",CDTV-6高清
+rtp://239.93.0.21:1251
+#EXTINF:-1 tvg-name="CDTV-8" group-title="卫视频道",CDTV-8高清
+rtp://239.93.0.22:1252
