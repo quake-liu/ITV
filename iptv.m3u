@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="精彩导视" group-title="精彩导视",精彩导视	
+rtp://239.93.1.39:5140
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1高清
 rtp://239.93.0.58:5140
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2高清
@@ -55,3 +57,10 @@ rtp://239.93.0.181:5140
 rtp://239.93.0.167:5140
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视高清
 rtp://239.93.0.168:5140
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视高清
+rtp://239.93.0.169:5140
+#EXTINF:-1 tvg-name="CDTV-1" group-title="卫视频道",CDTV-1高清
+rtp://239.93.0.16:5140
+
+
+
