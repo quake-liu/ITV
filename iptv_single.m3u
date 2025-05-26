@@ -28,7 +28,7 @@ http://192.168.2.180:4022/udp/239.93.0.102:5140
 http://192.168.2.180:4022/udp/239.93.1.30:8124
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13高清
 http://192.168.2.180:4022/udp/239.93.0.66:5140
-#EXTINF:-1 tvg-name="CCTV少儿" group-title="央视频道",CCTV-少儿高清
+#EXTINF:-1 tvg-name="CCTV少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-少儿高清
 http://192.168.2.180:4022/udp/239.93.1.29:6000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15高清
 http://192.168.2.180:4022/udp/239.93.0.103:5140
