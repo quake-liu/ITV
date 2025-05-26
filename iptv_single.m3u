@@ -34,7 +34,7 @@ http://192.168.2.180:4022/udp/239.93.1.29:6000
 http://192.168.2.180:4022/udp/239.93.0.103:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17高清
 http://192.168.2.180:4022/udp/239.93.0.92:5140
-#EXTINF:-1 tvg-name="CGTN英语" group-title="央视频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://192.168.2.180:4022/udp/239.93.0.104:5140
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://192.168.2.180:4022/udp/239.93.42.42:5140
