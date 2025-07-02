@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "hmr",
-      "name": "黑木耳点播源",
+      "key": "ikun",
+      "name": "ikun点播源",
       "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
