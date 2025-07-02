@@ -1,21 +1,13 @@
 {
   "sites": [
     {
-      "key": "ikun",
-      "name": "ikun点播源",
+      "key": "lz",
+      "name": "量子点播源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "短剧",
-        "纪录片"
-      ]
+      "filterable": 1
     }
   ],
   "lives": [
