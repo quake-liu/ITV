@@ -8,6 +8,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "hmr",
+      "name": "黑木耳点播源",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
@@ -205,6 +214,5 @@
     }
   ],
   "ads": [
-
   ]
 }
